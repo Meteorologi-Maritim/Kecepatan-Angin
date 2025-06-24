@@ -21,8 +21,8 @@ THRESHOLD_MPS = 10.28888
 # Monitored location coordinates (currently set to a location in Bali)
 # LATITUDE = -7.869
 # LONGITUDE = 115.601
-LATITUDE = -9.057
-LONGITUDE = 115.745
+LATITUDE = -8.596
+LONGITUDE = 112.260
 
 # Data refresh interval in seconds
 REFRESH_INTERVAL_SECONDS = 5
